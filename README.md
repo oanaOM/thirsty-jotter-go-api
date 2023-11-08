@@ -1,4 +1,4 @@
-@ ThirstyJotter API (WIP)
+# ThirstyJotter API (WIP)
 
 ## Overview
 
