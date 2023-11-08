@@ -17,6 +17,7 @@ func main() {
 func serveApplication() *gin.Engine {
 	router := gin.Default()
 	router.GET("/plants", plants.GetPlants)
+	router.GET("/xata_plants", plants.GetXataPlants)
 	router.GET("/plants/:id", plants.GetPlantByID)
 	router.POST("/plants", plants.PostPlant)
 

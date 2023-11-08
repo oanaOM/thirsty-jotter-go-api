@@ -47,7 +47,7 @@ TBA
 
 ### Endpoints
 
-- `GET /plants`: Get all plants.
+- `GET /xata_plants`: Get all plants.
 
 ### Authentication
 
